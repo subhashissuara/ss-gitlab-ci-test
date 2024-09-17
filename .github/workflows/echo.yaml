@@ -3,7 +3,7 @@ name: Echo
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   echo-job:
