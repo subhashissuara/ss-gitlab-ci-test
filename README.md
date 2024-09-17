@@ -1,1 +1,0 @@
-# ss-gitlab-ci-test

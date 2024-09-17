@@ -1,0 +1,9 @@
+name: Echo
+
+jobs:
+  echo-job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Echo a message
+        run: echo "Hello, from GitHub!"
