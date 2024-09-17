@@ -1,5 +1,10 @@
 name: Echo
 
+on:
+  push:
+    branches:
+      - main
+
 jobs:
   echo-job:
     runs-on: ubuntu-latest
